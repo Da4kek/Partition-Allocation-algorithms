@@ -1,0 +1,15 @@
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\bin\Debug\net8.0\Worst-Fit.exe
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\bin\Debug\net8.0\Worst-Fit.deps.json
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\bin\Debug\net8.0\Worst-Fit.runtimeconfig.json
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\bin\Debug\net8.0\Worst-Fit.dll
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\bin\Debug\net8.0\Worst-Fit.pdb
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\obj\Debug\net8.0\Worst-Fit.csproj.AssemblyReference.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\obj\Debug\net8.0\Worst-Fit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\obj\Debug\net8.0\Worst-Fit.AssemblyInfoInputs.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\obj\Debug\net8.0\Worst-Fit.AssemblyInfo.cs
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\obj\Debug\net8.0\Worst-Fit.csproj.CoreCompileInputs.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\obj\Debug\net8.0\Worst-Fit.dll
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\obj\Debug\net8.0\refint\Worst-Fit.dll
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\obj\Debug\net8.0\Worst-Fit.pdb
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\obj\Debug\net8.0\Worst-Fit.genruntimeconfig.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Worst-Fit\obj\Debug\net8.0\ref\Worst-Fit.dll
