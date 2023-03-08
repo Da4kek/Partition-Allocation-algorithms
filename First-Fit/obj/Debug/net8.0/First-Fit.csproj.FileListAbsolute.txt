@@ -1,0 +1,15 @@
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\obj\Debug\net8.0\First-Fit.csproj.AssemblyReference.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\obj\Debug\net8.0\First-Fit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\obj\Debug\net8.0\First-Fit.AssemblyInfoInputs.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\obj\Debug\net8.0\First-Fit.AssemblyInfo.cs
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\obj\Debug\net8.0\First-Fit.csproj.CoreCompileInputs.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\bin\Debug\net8.0\First-Fit.exe
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\bin\Debug\net8.0\First-Fit.deps.json
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\bin\Debug\net8.0\First-Fit.runtimeconfig.json
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\bin\Debug\net8.0\First-Fit.dll
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\bin\Debug\net8.0\First-Fit.pdb
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\obj\Debug\net8.0\First-Fit.dll
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\obj\Debug\net8.0\refint\First-Fit.dll
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\obj\Debug\net8.0\First-Fit.pdb
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\obj\Debug\net8.0\First-Fit.genruntimeconfig.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\First-Fit\obj\Debug\net8.0\ref\First-Fit.dll
