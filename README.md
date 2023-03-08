@@ -17,4 +17,6 @@
 4. See for yourself how the algorithm allocates the processes to the holes.
 
 `Future updates will include more algorithms and a GUI.`
-`Ps: I am learning C# so the code might not be the best.`
+
+
+`Ps: I am re-Learning C# so the code might not be the best.`
