@@ -1,0 +1,15 @@
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\obj\Debug\net8.0\Best-Fit.csproj.AssemblyReference.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\obj\Debug\net8.0\Best-Fit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\obj\Debug\net8.0\Best-Fit.AssemblyInfoInputs.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\obj\Debug\net8.0\Best-Fit.AssemblyInfo.cs
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\obj\Debug\net8.0\Best-Fit.csproj.CoreCompileInputs.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\bin\Debug\net8.0\Best-Fit.exe
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\bin\Debug\net8.0\Best-Fit.deps.json
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\bin\Debug\net8.0\Best-Fit.runtimeconfig.json
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\bin\Debug\net8.0\Best-Fit.dll
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\bin\Debug\net8.0\Best-Fit.pdb
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\obj\Debug\net8.0\Best-Fit.dll
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\obj\Debug\net8.0\refint\Best-Fit.dll
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\obj\Debug\net8.0\Best-Fit.pdb
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\obj\Debug\net8.0\Best-Fit.genruntimeconfig.cache
+D:\Users\infra\Desktop\desktop_folders\new-codes\memory-management\Best-Fit\obj\Debug\net8.0\ref\Best-Fit.dll
